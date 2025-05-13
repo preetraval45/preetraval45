@@ -13,9 +13,9 @@ Welcome to my GitHub profile! I'm a passionate Frontend Developer and Cybersecur
 🎮 Building complex projects like a TCP/IP Chat Application (C++) and a Personal Finance Management Web Application (MERN Stack).
 
 📫 Connect with Me
-💼 LinkedIn: Preet Raval
+💼 LinkedIn: [Preet Raval](https://www.linkedin.com/in/preet-raval-5a5807206/)
 
-🌐 Portfolio: My Portfolio Website
+🌐 Portfolio: https://webpages.charlotte.edu/praval/Portfolio/index.html
 
 📧 Email: preetraval45@gmail.com
 

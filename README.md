@@ -1,32 +1,40 @@
 👋 Hello, I'm Preet Raval!
-Welcome to my GitHub profile! I'm a passionate Frontend Developer and Cybersecurity Enthusiast with a strong foundation in UI/UX Design, Java Development, and Database Management. Currently, I'm focused on building secure, scalable applications and exploring the latest advancements in Cybersecurity.
+
+Welcome to my GitHub profile! 🚀
+I'm a Frontend Developer, Cybersecurity Enthusiast, and SaaS Builder with a strong foundation in UI/UX Design, Java Development, Database Management, and Cloud Technologies. I’m passionate about building secure, scalable, and innovative applications while exploring the latest advancements in AI and Cybersecurity.
 
 🚀 About Me
-🎓 Graduated in BS in Computer Science in Cybersecurity at the University of North Carolina at Charlotte.
 
-🌱 Currently working on cybersecurity projects and enhancing my frontend development skills.
+🎓 BS in Computer Science (Cybersecurity) – University of North Carolina at Charlotte
+🌱 Currently working on cybersecurity + SaaS projects and enhancing my frontend & backend skills
+💡 Experienced in:
 
-💡 Experienced in React.js, JavaScript, HTML/CSS, Python, Java, and SQL.
+Frontend: React.js, Next.js, Tailwind CSS, HTML/CSS, JavaScript
 
-🔐 Exploring Penetration Testing, AWS Solution Architecture, and Cyber Forensics.
+Backend: Python, Java, Node.js, FastAPI, PHP
 
-🎮 Building complex projects like a TCP/IP Chat Application (C++) and a Personal Finance Management Web Application (MERN Stack).
+Databases: PostgreSQL, MySQL, SQL
+
+Cloud & DevOps: Docker, Nginx, AWS
+
+Security: Penetration Testing, AI Prompting, Cyber Forensics, AWS Solution Architecture
+
+🌟 Featured Projects
+
+🔧 TCP/IP Chat Application (C++) – Real-time communication using Windows Sockets (WinSock)
+💰 Personal Finance Management Web App (MERN Stack) – A secure, user-friendly platform for financial management
+📚 Student Teacher Interaction Portal (PHP, MySQL) – Enhancing communication between students and faculty
+🍔 Food Delivery Application (Java) – A dynamic food ordering and delivery platform
+🌐 ACI Dashboard (Docker, Next.js, PostgreSQL, Nginx, Tailwind CSS) – SaaS platform integrating multiple applications with role-based authentication, security, and scalable architecture
 
 📫 Connect with Me
-💼 LinkedIn: [Preet Raval](https://www.linkedin.com/in/preet-raval-5a5807206/)
 
-🌐 Portfolio: https://webpages.charlotte.edu/praval/Portfolio/index.html
+💼 LinkedIn: Preet Raval
+
+🌐 Portfolio: My Portfolio
 
 📧 Email: preetraval45@gmail.com
 
-🌟 Featured Projects
-🔧 TCP/IP Chat Application (C++) - Real-time communication using Windows Sockets (WinSock).
+💡 Let’s Innovate Together!
 
-💰 Personal Finance Management Web Application (MERN Stack) - A secure, user-friendly platform for financial management.
-
-🚀 Student Teacher Interaction Portal (PHP, MySQL) - Enhancing communication between students and faculty.
-
-🍔 Food Delivery Application (Java) - A dynamic food ordering and delivery platform.
-
-💡 Let's Innovate Together!
-I'm always eager to collaborate on exciting projects, share knowledge, and learn new skills. Feel free to explore my repositories, contribute, or get in touch. Let's build something amazing! 🚀
+I’m always eager to collaborate on exciting projects, share knowledge, and learn new skills. Feel free to explore my repositories, contribute, or reach out to me. Let’s build something amazing together! 🚀

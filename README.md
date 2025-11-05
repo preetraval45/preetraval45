@@ -5,7 +5,7 @@ I'm a Frontend Developer, Cybersecurity Enthusiast, and SaaS Builder with a stro
 
 🚀 About Me
 
-🎓 BS in Computer Science (Cybersecurity) – University of North Carolina at Charlotte
+🎓 BA in Computer Science – University of North Carolina at Charlotte
 🌱 Currently working on cybersecurity + SaaS projects and enhancing my frontend & backend skills
 💡 Experienced in:
 
